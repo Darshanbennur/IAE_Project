@@ -29,13 +29,6 @@
                 android:value="" />
         </activity>
         <activity
-            android:name=".activities.Developer_Profile"
-            android:exported="false">
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
             android:name=".activities.ProfilePage"
             android:exported="true">
             <meta-data

@@ -21,7 +21,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="25dp"
-        android:text="Ameya"
+        android:text="Seven Sheiks"
         android:fontFamily="@font/andika"
         android:textSize="25sp"
         android:textColor="@color/black"/>
